@@ -3,3 +3,4 @@ nltk
 sklearn
 string
 pickle
+scikit-learn
